@@ -12,3 +12,9 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules to every cell in the seed, live or dead; births and deaths coincide, and the discrete moment at which this happens is sometimes called a tick.[nb 1] Each generation is a pure function of the preceding. The rules continue to be applied repeatedly to create further generations.
+
+
+**Dependencies:**
+
+NumPy - pip install numpy
+PyGame - pip install pygame
