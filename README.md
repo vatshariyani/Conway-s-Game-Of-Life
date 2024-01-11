@@ -16,5 +16,5 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 **Dependencies:**
 
-NumPy - pip install numpy
+NumPy - pip install numpy<br>
 PyGame - pip install pygame
